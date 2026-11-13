@@ -1,4 +1,6 @@
 # WDM-Ex.No-4--IMPLEMENTATION-OF-GSP-ALGORITHM-
+## Name : Yazhini E 
+## Reg.no.: 2305002028
 **Aim:** 
  To create a python program for implementing GSP Algorithm. 
 **Program:** 
@@ -190,16 +192,9 @@ Dataset:
 2017-09-11 13:44:00;chronos#XVIe siècle
 
 ```
-Output: 
+## Output: 
  
- <img width="1091" height="579" alt="image" src="https://github.com/user-attachments/assets/d9a0be35-7a80-491c-b38f-19512b6b320a" />
-
+<img width="212" height="441" alt="image" src="https://github.com/user-attachments/assets/6d6c15f3-d1e7-4dfb-88e8-f1de7016877f" />
  
- 
- 
- 
- 
- 
- 
-Result: 
+## Result: 
 Thus, the python program for GSP Algorithm has been implemented successfully. 
